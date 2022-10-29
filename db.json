@@ -8,11 +8,12 @@
       "empresa": "Codigo Con Jorge"
     },
     {
-      "id": 2,
-      "nombre": "Karen",
+      "nombre": "Liz Truss",
+      "empresa": "Codigo Con Jorge",
+      "email": "truss-liz@gmail.com",
       "telefono": "138198313",
-      "email": "karen@gmail.com",
-      "empresa": "Codigo Con Jorge"
+      "notas": "Esta es una nota actualizada",
+      "id": 2
     },
     {
       "id": 3,
